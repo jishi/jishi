@@ -29,7 +29,9 @@ Fullstack developer for a content moderation plattform (Implio). Built on Angula
 
 ### Panagora (2008-2015)
 
-Backend developer for their E-commerce plattform EDGE. Initially designed and built (in a team of two) their E-commerce plattform which runs some of their biggest clients. Notable mentions are Babyshop/AlexAndAlexa, SNS, Elvine.
+Backend developer for their E-commerce plattform EDGE. Initial design and built (in a team of two) their E-commerce plattform which runs some of their biggest clients. Notable mentions are Babyshop/AlexAndAlexa, SNS, Elvine.
+
+Some key responsibilities included payment gateway integrations and performance improvements, as well as designing hosting solutions.
 
 C#, ASP.NET, Postgres, Monorail, NHibernate
 
