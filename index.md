@@ -1,3 +1,9 @@
+## About me
+
+Born: 1980
+Spoken languages: Swedish, English
+
+
 ## Experience
 
 ### Reform Experience (2019-2020)
@@ -40,6 +46,26 @@ C#, ASP.NET, Postgres, Monorail, NHibernate
 In charge of IT and fullstack developer of their e-commerce, ERP and POS solutions. Ran a team of 4 covering everything from workstations, hosting, infrastructure as well as development of both site features and ERP features. 
 
 PHP, MySQL, JS
+
+### ATG (2003)
+
+Implemented a new design on their website. 
+
+Java, JSP, CSS, HTML
+
+### Sapio (2002)
+
+Java consultant
+
+### Interaktiv Tid / Agent 25 (2000-2001)
+
+Web development and spider configuration using perl/regex
+
+Perl, ASP, MSSQL
+
+### Megabyt Data / Inrego (1999-2000)
+
+Computer refurbishing and web development
 
 ## Other merits
 
