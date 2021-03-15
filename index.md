@@ -64,3 +64,8 @@ PHP, MySQL, JS
 ## Personal life
 
 In my spare time I enjoy mountainbiking, video games, renovating my house and working on various DIY projects involving raspberry pis and arduinos. 
+
+## Contact
+
+Email: (jimmy@shimizu.se)[mailto:jimmy@jishi.se]
+Phone: (+46 (0)73-744 11 93)[tel:+46737441193]
