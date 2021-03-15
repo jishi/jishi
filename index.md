@@ -1,7 +1,3 @@
-# Jimmy Shimizu (Jishi AB)
-
-Experienced fullstack developer with broad knowledge about system architecture and performance, as well as clean coding with a big dose of maintainability. 
-
 ## Experience
 
 ### Reform Experience (2019-2020)
@@ -42,3 +38,7 @@ C#, ASP.NET, Postgres, Monorail, NHibernate
 In charge of IT and fullstack developer of their e-commerce, ERP and POS solutions. Ran a team of 4 covering everything from workstations, hosting, infrastructure as well as development of both site features and ERP features. 
 
 PHP, MySQL, JS
+
+## Personal life
+
+In my spare time I enjoy mountainbiking, video games, renovating my house and working on various DIY projects involving raspberry pis and arduinos. 
