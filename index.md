@@ -5,7 +5,7 @@
 
 ## What I'm looking for
 
-I thrive when I is tasked with challenges involving complex problems, performance requirements (scalability and optimization) and the need for seeing "the big picture". I'm mostly useful in an architect and/or lead developer role. Even better if the role also requires understanding infrastructure and hosting options, including cost vs velocity gain estimates. 
+I thrive when I'm tasked with challenges involving complex problems, performance requirements (scalability and optimization) and the need for seeing "the big picture". I'm mostly useful in an architect and/or lead developer role. Even better if the role also requires understanding infrastructure and hosting options, including cost vs velocity gain estimates. 
 
 ## Experience
 
