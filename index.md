@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Jimmy Shimizu (Jishi AB)
 
-You can use the [editor on GitHub](https://github.com/jishi/jishi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Experienced fullstack developer with broad knowledge about system architecture and performance, as well as clean coding with a big dose of maintainability. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experience
 
-### Markdown
+### Reform Experience (2019-2020)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Designed and built a "platform" for short lived campaign sites. Included customization of a CMS and optimized workflows and deployment of new web sites, and associated integrations (CRM, payment solutions, custom functionality). 
 
-```markdown
-Syntax highlighted code block
+Key concept included reusability of components, less maintenance and optimized hosting costs.
 
-# Header 1
-## Header 2
-### Header 3
+Node.js, Craft CMS, AWS (ECS, RDS, SQS, SNS, Lambda, CDK/Cloudformation)
 
-- Bulleted
-- List
+### Toteme (2019) 
 
-1. Numbered
-2. List
+Was in charge of configuring and deploying their Woocommerce solution into a scalable AWS setup. Included a fully programmable infrastructure (Cloudformation) as well as rapid deployment of code, as well as supporting multiple staging environments (with automated spinup and teardown).
 
-**Bold** and _Italic_ and `Code` text
+AWS (ECS, RDS, Cloudformation)
 
-[Link](url) and ![Image](src)
-```
+### Springworks (2016-2019)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Fullstack developer for a connected car platform (IoT). AWS-centric infrastructure, Android/iOS-client with a micro-services backend. Took lead on several major design decisions during my time there, which both reduced operational costs, complexity and developer time, e.g:
 
-### Jekyll Themes
+Moving into dockerized (ECS) service hosting
+Utilizing SNS/SQS as a pubsub to reduce service complexity and de-couple producer / consumer reponsibilities
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jishi/jishi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Most services were built in Node.js and MongoDB. AWS infrastructure handled with Cloudformation. In addition to this we ran Splunk, Postgres, Teamcity to name a few. 
 
-### Support or Contact
+### Besedo (2015-2016)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Fullstack developer for a content moderation plattform (Implio). Built on Angular, Node.js, RabbitMQ, MongoDB, MariaDB and works as an automated pipeline for content moderation via API integrations and webhooks.
+
+### Panagora (2008-2015)
+
+Backend developer for their E-commerce plattform EDGE. Initially designed and built (in a team of two) their E-commerce plattform which runs some of their biggest clients. Notable mentions are Babyshop/AlexAndAlexa, SNS, Elvine.
+
+C#, ASP.NET, Postgres, Monorail, NHibernate
+
+### Webhallen (2005-2008)
+
+In charge of IT and fullstack developer of their e-commerce, ERP and POS solutions. Ran a team of 4 covering everything from workstations, hosting, infrastructure as well as development of both site features and ERP features. 
+
+PHP, MySQL, JS
