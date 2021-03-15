@@ -4,7 +4,7 @@
 
 Designed and built a "platform" for short lived campaign sites. Included customization of a CMS and optimized workflows and deployment of new web sites, and associated integrations (CRM, payment solutions, custom functionality). 
 
-Key concept included reusability of components, less maintenance and optimized hosting costs.
+Key objectives included reusability of components, less maintenance, optimized hosting costs and higher velocity. 
 
 Node.js, Craft CMS, AWS (ECS, RDS, SQS, SNS, Lambda, CDK/Cloudformation)
 
