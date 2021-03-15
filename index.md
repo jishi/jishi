@@ -39,6 +39,26 @@ In charge of IT and fullstack developer of their e-commerce, ERP and POS solutio
 
 PHP, MySQL, JS
 
+## Other merits
+
+### Sonos HTTP API and other related projects
+
+ - https://github.com/jishi/node-sonos-http-api
+ - https://github.com/jishi/node-sonos-discovery
+ - https://github.com/jishi/node-sonos-web-controller
+ - http://www.bronos.net/
+
+### Technologies / software
+
+ - Databases
+    Postgres, MySQL, MSSQL, MongoDB, RethinkDB, CouchDB, Redis
+ - Programming languages
+    Node.js, C#, PHP, Java
+ - CI
+    Travis, Github Actions, CircleCI, TeamCity, Jenkins
+ - Infrastructure as code
+    Cloudformation, CDK
+
 ## Personal life
 
 In my spare time I enjoy mountainbiking, video games, renovating my house and working on various DIY projects involving raspberry pis and arduinos. 
