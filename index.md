@@ -71,14 +71,14 @@ Computer refurbishing and web development
 
 ### Sonos HTTP API and other related projects
 
- - (https://github.com/jishi/node-sonos-http-api)
- - (https://github.com/jishi/node-sonos-discovery)
- - (https://github.com/jishi/node-sonos-web-controller)
- - (http://www.bronos.net/)
+ - <https://github.com/jishi/node-sonos-http-api>
+ - <https://github.com/jishi/node-sonos-discovery>
+ - <https://github.com/jishi/node-sonos-web-controller>
+ - <http://www.bronos.net/>
 
 ### Stack Overflow
 
-(https://stackoverflow.com/users/33663/jishi)
+<https://stackoverflow.com/users/33663/jishi>
 
 ### Technologies / software
 
