@@ -1,7 +1,7 @@
 ## About me
 
-  Born: 1980
-  Spoken languages: Swedish, English
+- Born: 1980
+- Spoken languages: Swedish, English
 
 
 ## Experience
