@@ -67,5 +67,5 @@ In my spare time I enjoy mountainbiking, video games, renovating my house and wo
 
 ## Contact
 
-Email: (jimmy@shimizu.se)[mailto:jimmy@jishi.se]
-Phone: (+46 (0)73-744 11 93)[tel:+46737441193]
+Email: [jimmy@shimizu.se](mailto:jimmy@jishi.se)
+Phone: [+46 (0)73-744 11 93](tel:+46737441193)
