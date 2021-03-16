@@ -80,6 +80,10 @@ Computer refurbishing and web development
  - <https://github.com/jishi/node-sonos-web-controller>
  - <http://www.bronos.net/>
 
+### Authored npm modules
+
+ - <https://github.com/jishi/node-sqs-poller>
+
 ### Stack Overflow
 
 <https://stackoverflow.com/users/33663/jishi>
@@ -87,13 +91,15 @@ Computer refurbishing and web development
 ### Technologies / software
 
  - Databases
-    Postgres, MySQL, MSSQL, MongoDB, RethinkDB, CouchDB, Redis
+    - Postgres, MySQL, MSSQL, MongoDB, RethinkDB, CouchDB, Redis, Lucene
  - Programming languages
-    Node.js, C#, PHP, Java
+    - Node.js, C#, PHP, Java
  - CI
-    Travis, Github Actions, CircleCI, TeamCity, Jenkins
+    - Travis, Github Actions, CircleCI, TeamCity, Jenkins
  - Infrastructure as code
-    Cloudformation, CDK
+    - Cloudformation, CDK
+ - Frameworks
+    - Hapi, Express, Restify
 
 ## Personal life
 
