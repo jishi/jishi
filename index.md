@@ -88,18 +88,28 @@ Computer refurbishing and web development
 
 <https://stackoverflow.com/users/33663/jishi>
 
-### Technologies / software
+### Technologies / software highlights
 
  - Databases
-    - Postgres, MySQL, MSSQL, MongoDB, RethinkDB, CouchDB, Redis, Lucene
+    
+    Postgres, MySQL, MSSQL, MongoDB, RethinkDB, CouchDB, Redis, Lucene
+    
  - Programming languages
-    - Node.js, C#, PHP, Java
+    
+    Node.js, C#, PHP, Java
+    
  - CI
-    - Travis, Github Actions, CircleCI, TeamCity, Jenkins
+ 
+    Travis, Github Actions, CircleCI, TeamCity, Jenkins
+    
  - Infrastructure as code
-    - Cloudformation, CDK
+ 
+    Cloudformation, CDK
+    
  - Frameworks
-    - Hapi, Express, Restify
+
+    Hapi, Express, Restify
+    
 
 ## Personal life
 
