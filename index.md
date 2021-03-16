@@ -10,7 +10,7 @@ I thrive when I'm tasked with challenges involving complex problems, performance
 
 ## Experience
 
-### Reform Experience (2019-2020)
+### Reform Experience (2019-2020) (consultant)
 
 Designed and built a "platform" for short lived campaign sites. Included customization of a CMS and optimized workflows and deployment of new web sites, and associated integrations (CRM, payment solutions, custom functionality). 
 
@@ -18,7 +18,7 @@ Key objectives included reusability of components, less maintenance, optimized h
 
 Node.js, Craft CMS, AWS (ECS, RDS, SQS, SNS, Lambda, CDK/Cloudformation)
 
-### Toteme (2019) 
+### Toteme (2019) (consultant)
 
 Was in charge of configuring and deploying their Woocommerce solution into a scalable AWS setup. Included a fully programmable infrastructure (Cloudformation) as well as rapid deployment of code, as well as supporting multiple staging environments (with automated spinup and teardown).
 
@@ -113,7 +113,7 @@ Computer refurbishing and web development
 
 ## Personal life
 
-In my spare time I enjoy mountainbiking, video games, renovating my house and working on various DIY projects involving raspberry pis and arduinos. 
+I live in an old house with my partner and her two kids. In my spare time I enjoy mountainbiking, video games, renovating my house and working on various DIY projects involving raspberry pis and arduinos. 
 
 ## Contact
 
