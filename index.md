@@ -2,6 +2,7 @@
 
 - Born: 1980
 - Spoken languages: Swedish, English
+- Personal traits: Humble, Pragmatic, Team player, Helpful, Dependable
 
 ## What I'm looking for
 
@@ -27,8 +28,8 @@ AWS (ECS, RDS, Cloudformation)
 
 Fullstack developer for a connected car platform (IoT). AWS-centric infrastructure, Android/iOS-client with a micro-services backend. Took lead on several major design decisions during my time there, which both reduced operational costs, complexity and developer time, e.g:
 
-Moving into dockerized (ECS) service hosting
-Utilizing SNS/SQS as a pubsub to reduce service complexity and de-couple producer / consumer reponsibilities
+- Moving into dockerized (ECS) service hosting
+- Utilizing SNS/SQS as a pubsub to reduce service complexity and de-couple producer / consumer reponsibilities
 
 Most services were built in Node.js and MongoDB. AWS infrastructure handled with Cloudformation. In addition to this we ran Splunk, Postgres, Teamcity to name a few. 
 
@@ -42,11 +43,11 @@ Backend developer for their E-commerce plattform EDGE. Initial design and built 
 
 Some key responsibilities included payment gateway integrations and performance improvements, as well as designing hosting solutions.
 
-C#, ASP.NET, Postgres, Monorail, NHibernate
+C#, ASP.NET, Postgres, Monorail, NHibernate, Lucene.NET
 
 ### Webhallen (2005-2008)
 
-In charge of IT and fullstack developer of their e-commerce, ERP and POS solutions. Ran a team of 4 covering everything from workstations, hosting, infrastructure as well as development of both site features and ERP features. 
+In charge of IT and fullstack developer of their e-commerce, ERP and POS solutions. Ran a team of 4 covering everything from workstations, hosting, infrastructure as well as development of both site features and ERP features. During my time there I helped increase stability and velocity by introducing reduncancy and mirroring for various systems.
 
 PHP, MySQL, JS
 
