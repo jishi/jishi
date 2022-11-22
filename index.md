@@ -10,6 +10,28 @@ I thrive when I'm tasked with challenges involving complex problems, performance
 
 ## Experience
 
+### Haysquare (2022-) (consultant)
+
+Developer resource for former Springworks improving their Connected Car platform. 
+
+Node.js, TypeScript, Docker, AWS (ECS, RDS, SQS, SNS, Lambda, CDK)
+
+### Quickbit (2021) (DevOps, consultant)
+
+Was full time devops to support a crypto company with infrastructure improvements. Was in charge of implementing Opensearch for log aggregation including fluentd/fluentbit collecting via sidecart docker containers in ECS, as well as using Cognito as UserPool authentication for access control. 
+
+In addition to the log search setup, various day to day improvements for their general infrastructure. 
+
+AWS (ECS, RDS, SQS, SNS, Lambda, CloudFormation, Opensearch/Elasticsearch)
+
+### Elefant Studio AB (2021-) (CTO)
+
+Maintaining day to day business for clients and hosting. Mainly doing docker-based hosting via ECS for various platforms including Craft CMS, Wordpress and middleware software maintained by us.
+
+Development of specialized integrations (Various CRMs, video streaming, CDN etc)
+
+Node.js, Craft CMS, AWS (ECS, RDS, SQS, SNS, Lambda, CDK)
+
 ### Reform Experience (2019-2020) (consultant)
 
 Designed and built a "platform" for short lived campaign sites. Included customization of a CMS and optimized workflows and deployment of new web sites, and associated integrations (CRM, payment solutions, custom functionality). 
