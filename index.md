@@ -18,7 +18,7 @@ Node.js/TypeScript, AWS (CDK, ECS, RDS), Elastic Cloud (Elasticsearch, Kibana)
 
 ### HRF (Hörselskadades Riksförbund) (2023) (Assignment via Elefant Studio)
 
-Hosting setup and implementation of Swish payments for their campaign site (vadsaloppet.se)[https://www.vadsaloppet.se]. In addition to swish payments, it also needed a public registration flow for teams and integrations against CRM (ActiveCampaign). Website was based off Craft CMS, and Swish integration was built using a companion Lambda to not add complexity to the core CMS. 
+Hosting setup and implementation of Swish payments for their campaign site [vadsaloppet.se](https://www.vadsaloppet.se). In addition to swish payments, it also needed a public registration flow for teams and integrations against CRM (ActiveCampaign). Website was based off Craft CMS, and Swish integration was built using a companion Lambda to not add complexity to the core CMS. 
 
 Node.js, Docker, AWS, Craft CMS
 
