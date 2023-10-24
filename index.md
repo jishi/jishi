@@ -10,7 +10,19 @@ I thrive when I'm tasked with challenges involving complex problems, performance
 
 ## Experience
 
-### Haysquare (2022-) (consultant)
+### Frilans Finans (2023) (consultant)
+
+Responsible for implementing IaaC to allow easier future development of micro services. Automating and allowing replicated environments through the same infrastructure code, as well as handling deploys and service-specific infrastructure through IaaC. 
+
+Node.js/TypeScript, AWS (CDK, ECS, RDS), Elastic Cloud (Elasticsearch, Kibana)
+
+### HRF (Hörselskadades Riksförbund) (2023) (Assignment via Elefant Studio)
+
+Hosting setup and implementation of Swish payments for their campaign site (vadsaloppet.se)[https://www.vadsaloppet.se]. In addition to swish payments, it also needed a public registration flow for teams and integrations against CRM (ActiveCampaign). Website was based off Craft CMS, and Swish integration was built using a companion Lambda to not add complexity to the core CMS. 
+
+Node.js, Docker, AWS, Craft CMS
+
+### Haysquare (2022-2023) (consultant)
 
 Developer resource for former Springworks improving their Connected Car platform. 
 
