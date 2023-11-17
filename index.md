@@ -12,7 +12,7 @@ I thrive when I'm tasked with challenges involving complex problems, performance
 
 ### Frilans Finans (2023) (consultant)
 
-Responsible for implementing IaaC to allow easier future development of micro services. Automating and allowing replicated environments through the same infrastructure code, as well as handling deploys and service-specific infrastructure through IaaC. 
+Responsible for implementing IaC to allow easier future development of micro services. Automating and allowing replicated environments through the same infrastructure code, as well as handling deploys and service-specific infrastructure. 
 
 Node.js/TypeScript, AWS (CDK, ECS, RDS), Elastic Cloud (Elasticsearch, Kibana)
 
