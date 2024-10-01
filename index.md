@@ -10,7 +10,7 @@ I thrive when I'm tasked with challenges involving complex problems, performance
 
 ## Experience
 
-### Frilans Finans (2023) (consultant)
+### Frilans Finans (2023-2024) (consultant)
 
 Responsible for implementing IaC to allow easier future development of micro services. Automating and allowing replicated environments through the same infrastructure code, as well as handling deploys and service-specific infrastructure. 
 
