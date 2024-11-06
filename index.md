@@ -12,9 +12,11 @@ I thrive when I'm tasked with challenges involving complex problems, performance
 
 ### Frilans Finans (2023-2024) (consultant)
 
-Responsible for implementing IaC to allow easier future development of micro services. Automating and allowing replicated environments through the same infrastructure code, as well as handling deploys and service-specific infrastructure. 
+Responsible for implementing IaC to allow easier future development of micro services. Automating and allowing replicated environments through the same infrastructure code, as well as handling deploys and service-specific infrastructure.
 
-Node.js/TypeScript, AWS (CDK, ECS, RDS), Elastic Cloud (Elasticsearch, Kibana)
+Additional improvements to their CI setup to use more cost-effective resources (spot instances), shared job and docker layer caching to reduce job time for ephemeral instances. 
+
+Node.js/TypeScript, AWS (CDK, ECS, RDS), Elastic Cloud (Elasticsearch, Kibana), Docker
 
 ### HRF (Hörselskadades Riksförbund) (2023) (Assignment via Elefant Studio)
 
