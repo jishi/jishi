@@ -6,7 +6,7 @@
 
 ## What I'm looking for
 
-I thrive when I'm tasked with challenges involving complex problems, performance requirements (scalability and optimization) and the need for seeing "the big picture". I'm mostly useful in an architect and/or lead developer role. Even better if the role also requires understanding infrastructure and hosting options, including cost vs velocity gain estimates. 
+I thrive when I'm tasked with challenges involving complex problems, performance requirements (scalability and optimization) and the need for seeing "the big picture". I believe I'm mostly useful in an architect and/or lead developer role. Even better if the role also requires understanding infrastructure and hosting options, including cost vs velocity gain estimates. 
 
 ## Experience
 
@@ -132,11 +132,11 @@ Computer refurbishing and web development
     
  - Programming languages
     
-    Node.js, C#, PHP, Java
+    Node.js, C#, PHP, Java, Go
     
  - CI
  
-    Travis, Github Actions, CircleCI, TeamCity, Jenkins
+    Github Actions, CircleCI, Gitlab, TeamCity, Jenkins
     
  - Infrastructure as code
  
