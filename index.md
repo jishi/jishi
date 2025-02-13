@@ -16,6 +16,8 @@ Responsible for implementing IaC to allow easier future development of micro ser
 
 Additional improvements to their CI setup to use more cost-effective resources (spot instances), shared job and docker layer caching to reduce job time for ephemeral instances. 
 
+Included in the above was also mentoring the FTEs in above improvements, to be self-sustainable in the future.
+
 Node.js/TypeScript, AWS (CDK, ECS, RDS), Elastic Cloud (Elasticsearch, Kibana), Docker
 
 ### HRF (Hörselskadades Riksförbund) (2023) (Assignment via Elefant Studio)
