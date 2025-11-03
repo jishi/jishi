@@ -10,6 +10,12 @@ I thrive when I'm tasked with challenges involving complex problems, performance
 
 ## Experience
 
+### Scania (2025-) (consultant)
+
+Backend/Devops resource. Improving developer experience for the team, making way for fully CI/CD workflow to improve deliverability. Improving IaC, streamlining deployment patterns and reducing AWS costs.
+
+TypeScript, C#, Kafka, Gitlab pipelines, Postgres, AWS, CDK, Datadog
+
 ### Frilans Finans (2023-2024) (consultant)
 
 Responsible for implementing IaC to allow easier future development of micro services. Automating and allowing replicated environments through the same infrastructure code, as well as handling deploys and service-specific infrastructure.
