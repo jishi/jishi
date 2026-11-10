@@ -12,9 +12,9 @@ I thrive when I'm tasked with challenges involving complex problems, performance
 
 ### Scania (2025-) (consultant)
 
-Backend/Devops resource. Improving developer experience for the team, making way for fully CI/CD workflow to improve deliverability. Improving IaC, streamlining deployment patterns and reducing AWS costs.
+Backend/Devops resource. Improving developer experience for the team, making way for fully CI/CD workflow to improve deliverability. Improving IaC, streamlining deployment patterns and reducing AWS costs. 
 
-TypeScript, C#, Kafka, Gitlab pipelines, Postgres, AWS, CDK, Datadog
+TypeScript, C#, Kafka, Gitlab pipelines, Postgres, AWS, CDK, Datadog, Agentic coding (claude)
 
 ### Frilans Finans (2023-2024) (consultant)
 
@@ -46,7 +46,7 @@ In addition to the log search setup, various day to day improvements for their g
 
 AWS (ECS, RDS, SQS, SNS, Lambda, CloudFormation, Opensearch/Elasticsearch)
 
-### Elefant Studio AB (2021-) (CTO)
+### Elefant Studio AB (2021-2026) (CTO)
 
 Maintaining day to day business for clients and hosting. Mainly doing docker-based hosting via ECS for various platforms including Craft CMS, Wordpress and middleware software maintained by us.
 
